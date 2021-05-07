@@ -1,0 +1,1 @@
+CREATE OR REPLACE TYPE OMPROD.om_list_get_ord_il AS TABLE OF OMPROD.om_obj_get_ord_il;

@@ -1,0 +1,1191 @@
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-001', 'co_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-001', 'dn_num', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-001', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-001', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-001', 'tmcode', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-001', 'th_unit', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-001', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-001', 'threshold_id', 1, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-001', 'th_consumption', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-002', 'th_consumption', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-002', 'threshold_id', 1, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-002', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-002', 'th_unit', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-002', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-002', 'dn_num', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-002', 'tmcode', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-002', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-002', 'co_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-003', 'dn_num', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-003', 'tmcode', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-003', 'co_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-003', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-003', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-003', 'threshold_id', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-003', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-003', 'th_consumption', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-003', 'th_unit', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-004', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-004', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-004', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-004', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-004', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-004', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-004', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-004', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-004', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-004', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-004', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-005', 'th_unit', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-005', 'th_consumption', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-005', 'tmcode', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-005', 'threshold_id', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-005', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-005', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-005', 'co_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-005', 'dn_num', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-005', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-006', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-006', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-006', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-006', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-006', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-006', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-006', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-006', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-006', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-006', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-006', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-007', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-007', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-007', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-007', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-007', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-007', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-007', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-007', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-007', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-007', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-007', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-008', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-008', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-008', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-008', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-008', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-008', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-008', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-008', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-008', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-008', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-008', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-009', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-009', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-009', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-009', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-009', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-009', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-009', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-009', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-009', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-009', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-009', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-010', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-010', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-010', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-010', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-010', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-010', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-010', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-010', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-010', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-010', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-010', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-011', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-011', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-011', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-011', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-011', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-011', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-011', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-011', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-011', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-011', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-011', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-012', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-012', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-012', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-012', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-012', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-012', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-012', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-012', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-012', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-012', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-012', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-013', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-013', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-013', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-013', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-013', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-013', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-013', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-013', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-013', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-013', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-013', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-014', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-014', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-014', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-014', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-014', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-014', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-014', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-014', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-014', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-014', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-014', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-015', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-015', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-015', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-015', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-015', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-015', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-015', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-015', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-015', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-015', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-015', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-016', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-016', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-016', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-016', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-016', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-016', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-016', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-016', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-016', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-016', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-016', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-017', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-017', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-017', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-017', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-017', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-017', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-017', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-017', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-017', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-017', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-017', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-018', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-018', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-018', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-018', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-018', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-018', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-018', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-018', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-018', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-018', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-018', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-019', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-019', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-019', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-019', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-019', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-019', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-019', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-019', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-019', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-019', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-019', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-020', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-020', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-020', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-020', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-020', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-020', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-020', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-020', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-020', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-020', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-020', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-021', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-021', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-021', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-021', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-021', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-021', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-021', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-021', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-021', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-021', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-021', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-022', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-022', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-022', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-022', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-022', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-022', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-022', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-022', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-022', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-022', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-022', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-023', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-023', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-023', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-023', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-023', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-023', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-023', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-023', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-023', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-023', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-023', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-024', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-024', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-024', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-024', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-024', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-024', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-024', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-024', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-024', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-024', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-024', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-025', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-025', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-025', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-025', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-025', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-025', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-025', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-025', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-025', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-025', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-025', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-026', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-026', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-026', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-026', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-026', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-026', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-026', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-026', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-026', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-026', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-026', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-027', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-027', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-027', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-027', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-027', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-027', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-027', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-027', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-027', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-027', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-027', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-028', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-028', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-028', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-028', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-028', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-028', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-028', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-028', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-028', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-028', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-028', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-029', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-029', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-029', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-029', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-029', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-029', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-029', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-029', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-029', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-029', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-029', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-030', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-030', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-030', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-030', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-030', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-030', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-030', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-030', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-030', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-030', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-030', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-031', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-031', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-031', 'administrative_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-031', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-031', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-031', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-031', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-031', 'reconnection_charge', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-031', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-031', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-031', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-032', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-032', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-032', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-032', 'administrative_chance', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-032', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-032', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-032', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-032', 'reconnection_change', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-032', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-032', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-032', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-033', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-033', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-033', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-033', 'administrative_chance', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-033', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-033', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-033', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-033', 'reconnection_change', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-033', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-033', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-033', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-034', 'ins_duedate', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-034', 'email', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-034', 'customer_name', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-034', 'inv_duedate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-034', 'inv_billingdate', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-034', 'installment_amount', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-034', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-034', 'open_amount', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-034', 'reconnection_change', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-034', 'administrative_chance', 0, 0, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-034', 'invoice_number', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-035', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-036', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-038', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-039', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-040', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-041', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-042', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-043', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-044', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-045', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-046', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-047', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-048', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-049', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-050', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-051', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-052', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-053', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-054', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-055', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-056', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-057', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-058', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-059', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-060', 'id_billing', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-061', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-062', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-063', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-064', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-065', 'customer_code', 0, 1, 1);
+
+insert into OMPRD.CFG_ORD_CAN_STRUCT (ID_ORD_TYPE, PARAM_NAME, DATA_TYPE, MIN_REQUIRED, MAX_ALLOWED)
+values ('OT-066', 'customer_code', 0, 1, 1);
+

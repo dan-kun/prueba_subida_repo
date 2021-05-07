@@ -1,0 +1,1 @@
+alter table OMPRD.om_batch_billing_presement modify id_billing_account VARCHAR2(20);

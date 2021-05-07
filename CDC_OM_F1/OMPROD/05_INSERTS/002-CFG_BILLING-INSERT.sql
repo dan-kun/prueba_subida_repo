@@ -1,0 +1,2 @@
+insert into OMPRD.CFG_BILLING (ID_BILLING, DESCRIPTION, SHORT_DESCRIPTION, MODALITY, IS_DEFAULT, CREATED_DT, CREATED_WHO, ACTIVE_DT, CHANGE_DT, CHANGE_WHO, INACTIVE_DT)
+values ('BI-001', 'EB20', '', 0, 1, to_date('01-07-2020', 'dd-mm-yyyy'), 'GAPOLINAR', to_date('01-07-2020', 'dd-mm-yyyy'), to_date('01-07-2020', 'dd-mm-yyyy'), 'GAPOLINAR', null);

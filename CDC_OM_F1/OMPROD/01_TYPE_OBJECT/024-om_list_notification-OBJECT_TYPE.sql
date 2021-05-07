@@ -1,0 +1,1 @@
+CREATE OR REPLACE TYPE OMPROD.om_list_notification AS TABLE OF OMPROD.om_obj_notification;

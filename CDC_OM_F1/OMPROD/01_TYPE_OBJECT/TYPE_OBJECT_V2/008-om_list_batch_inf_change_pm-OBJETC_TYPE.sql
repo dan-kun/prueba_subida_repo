@@ -1,0 +1,1 @@
+CREATE OR REPLACE TYPE OMPRD.om_list_batch_inf_change_pm AS TABLE OF OMPRD.om_obj_batch_inf_change_pm;

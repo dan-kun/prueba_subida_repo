@@ -1,0 +1,10 @@
+-- Create table
+create table OMPROD.OM_BATCH_GENERIC_NOTIFICATION
+(
+  ID_BILLING_ACCOUNT VARCHAR2(20),
+  ID_CONTRACT        VARCHAR2(20),
+  GSM                VARCHAR2(20),
+  EMAIL              VARCHAR2(50),
+  TYPE_NOTIFICATION  NUMBER not null,
+  MESSAGE_ID         VARCHAR2(20) not null
+);

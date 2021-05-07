@@ -1,0 +1,1 @@
+alter table OMPRD.om_batch_segmentation modify gsm VARCHAR2(20);

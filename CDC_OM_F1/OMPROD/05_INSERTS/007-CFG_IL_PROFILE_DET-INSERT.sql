@@ -1,0 +1,2292 @@
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-031', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-031', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-031', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-031', 0, 0, 'SMMO_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-031', 0, 0, 'FWD2BILL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-031', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-031', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-031', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-031', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-031', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-031', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 0, 'ROAMING_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 0, 'OCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 0, 'TCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-032', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-033', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-033', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-033', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-033', 0, 1, 'REQ_TYPE', '3', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-033', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-033', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-033', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-033', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-033', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-033', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-033', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 0, 'OCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 0, 'TCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 0, 'FWD2BILL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 0, 'SMMO_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-001', 'OT-034', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-002', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-002', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-002', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-002', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-002', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-002', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-002', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-002', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-002', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-002', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-002', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-003', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-003', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-003', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-003', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-003', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-003', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-003', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-003', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-003', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-003', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-003', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-005', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-005', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-005', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-005', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-005', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-005', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-005', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-005', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-005', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-005', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-005', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 0, 'LDI_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 0, 'ROAMING_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-030', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-031', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-031', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-031', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-031', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-031', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-031', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-031', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-031', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-031', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-031', 0, 0, 'SMMO_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-031', 0, 0, 'FWD2BILL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 0, 'TCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 0, 'ROAMING_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 0, 'OCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-032', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-033', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-033', 0, 1, 'REQ_TYPE', '3', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-033', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-033', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-033', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-033', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-033', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-033', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-033', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-033', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-033', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 0, 'TCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 0, 'FWD2BILL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 0, 'SMMO_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 0, 'OCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-034', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-042', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-042', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-042', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-042', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-042', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-042', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-042', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-042', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-042', 0, 1, 'http://www.comptel.com/ilink/api/soap/2005/09', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-042', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-002', 'OT-042', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-002', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-002', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-002', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-002', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-002', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-002', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-002', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-002', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-002', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-002', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-002', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-003', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-003', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-003', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-003', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-003', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-003', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-003', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-003', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-003', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-003', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-003', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-005', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-005', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-005', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-005', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-005', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-005', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-005', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-005', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-005', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-005', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-005', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 0, 'LDI_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 0, 'ROAMING_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-030', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-031', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-031', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-031', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-031', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-031', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-031', 0, 0, 'SMMO_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-031', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-031', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-031', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-031', 0, 0, 'FWD2BILL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-031', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 0, 'ROAMING_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 0, 'TCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 0, 'OCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-032', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-033', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-033', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-033', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-033', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-033', 0, 1, 'REQ_TYPE', '3', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-033', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-033', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-033', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-033', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-033', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-033', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 0, 'TCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 0, 'SMMO_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 0, 'OCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 0, 'LDI_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 0, 'FWD2BILL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-034', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 0, 'OCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 0, 'TCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 0, 'FWD2BILL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 0, 'SMMO_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-039', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-042', 0, 1, 'http://www.comptel.com/ilink/api/soap/2005/09', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-042', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-042', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-042', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-042', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-042', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-042', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-042', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-042', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-042', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-042', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 0, 'TCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 0, 'SMMO_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 0, 'FWD2BILL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-044', 0, 0, 'OCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 0, 'ROAMING_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 0, 'TCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 0, 'OCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-045', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 0, 'ROAMING_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 0, 'TCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 0, 'OCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-003', 'OT-060', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-030', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-030', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-030', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-030', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-030', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-030', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-030', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-030', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-030', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-030', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-030', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-033', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-033', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-033', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-033', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-033', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-033', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-033', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-033', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-033', 0, 1, 'REQ_TYPE', '3', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-033', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-033', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-034', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-034', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-034', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-034', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-034', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-034', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-034', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-034', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-034', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-034', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-034', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-042', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-042', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-042', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-042', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-042', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-042', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-042', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-042', 0, 1, 'http://www.comptel.com/ilink/api/soap/2005/09', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-042', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-042', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-004', 'OT-042', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-030', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-030', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-030', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-030', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-030', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-030', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-030', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-030', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-030', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-030', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-030', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-033', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-033', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-033', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-033', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-033', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-033', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-033', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-033', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-033', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-033', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-033', 0, 1, 'REQ_TYPE', '3', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-034', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-034', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-034', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-034', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-034', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-034', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-034', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-034', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-034', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-034', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-034', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-042', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-042', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-042', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-042', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-042', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-042', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-042', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-042', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-042', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-042', 0, 1, 'http://www.comptel.com/ilink/api/soap/2005/09', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-008', 'OT-042', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-002', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-002', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-002', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-002', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-002', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-002', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-002', 0, 0, 'REDIRECT_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-002', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-002', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-002', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-003', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-003', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-003', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-003', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-003', 0, 0, 'REDIRECT_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-003', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-003', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-003', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-003', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-003', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-005', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-005', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-005', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-005', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-005', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-005', 0, 0, 'REDIRECT_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-005', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-005', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-005', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-005', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-030', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-030', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-030', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-030', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-030', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-030', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-030', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-030', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-030', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-030', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-030', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-032', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-032', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-032', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-032', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-032', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-032', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-032', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-032', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-032', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-032', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-032', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-033', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-033', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-033', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-033', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-033', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-033', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-033', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-033', 0, 1, 'REQ_TYPE', '3', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-033', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-033', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-033', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-034', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-034', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-034', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-034', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-034', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-034', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-034', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-034', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-034', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-034', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-034', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-042', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-042', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-042', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-042', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-042', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-042', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-042', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-042', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-042', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-042', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-009', 'OT-042', 0, 1, 'http://www.comptel.com/ilink/api/soap/2005/09', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-002', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-002', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-002', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-002', 0, 0, 'REDIRECT_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-002', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-002', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-002', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-002', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-002', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-002', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-003', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-003', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-003', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-003', 0, 0, 'REDIRECT_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-003', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-003', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-003', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-003', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-003', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-003', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-005', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-005', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-005', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-005', 0, 0, 'REDIRECT_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-005', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-005', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-005', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-005', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-005', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-005', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-030', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-030', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-030', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-030', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-030', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-030', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-030', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-030', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-030', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-030', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-030', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-032', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-032', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-032', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-032', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-032', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-032', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-032', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-032', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-032', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-032', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-032', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-033', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-033', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-033', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-033', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-033', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-033', 0, 1, 'REQ_TYPE', '3', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-033', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-033', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-033', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-033', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-033', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-034', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-034', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-034', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-034', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-034', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-034', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-034', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-034', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-034', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-034', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-034', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-042', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-042', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-042', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-042', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-042', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-042', 0, 1, 'http://www.comptel.com/ilink/api/soap/2005/09', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-042', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-042', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-042', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-042', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-010', 'OT-042', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-011', 'OT-033', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-011', 'OT-033', 0, 1, 'REQ_TYPE', '3', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-011', 'OT-033', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-011', 'OT-033', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-011', 'OT-033', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-011', 'OT-033', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-011', 'OT-033', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-011', 'OT-033', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-011', 'OT-033', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-011', 'OT-033', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-011', 'OT-033', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-002', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-002', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-002', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-002', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-002', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-002', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-002', 0, 0, 'REDIRECT_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-002', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-002', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-002', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-003', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-003', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-003', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-003', 0, 0, 'REDIRECT_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-003', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-003', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-003', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-003', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-003', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-003', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-005', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-005', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-005', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-005', 0, 0, 'REDIRECT_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-005', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-005', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-005', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-005', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-005', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-005', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-030', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-030', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-030', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-030', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-030', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-030', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-030', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-030', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-030', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-030', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-030', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-032', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-032', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-032', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-032', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-032', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-032', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-032', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-032', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-032', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-032', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-032', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-033', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-033', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-033', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-033', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-033', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-033', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-033', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-033', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-033', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-033', 0, 1, 'REQ_TYPE', '3', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-033', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-034', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-034', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-034', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-034', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-034', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-034', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-034', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-034', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-034', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-034', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-034', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-042', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-042', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-042', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-042', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-042', 0, 1, 'http://www.comptel.com/ilink/api/soap/2005/09', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-042', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-042', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-042', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-042', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-042', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-012', 'OT-042', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-002', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-002', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-002', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-002', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-002', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-002', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-002', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-002', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-002', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-002', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-002', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-003', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-003', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-003', 2, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-003', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-003', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-003', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-003', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-003', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-003', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-003', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-003', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-005', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-005', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-005', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-005', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-005', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-005', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-005', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-005', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-005', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-005', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-005', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 0, 'LDI_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 0, 'GPRS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 2, 0, 'LTE_LOCK_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-030', 0, 0, 'ROAMING_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-031', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-031', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-031', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-031', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-031', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-031', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-031', 0, 0, 'FWD2BILL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-031', 0, 0, 'SMMO_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-031', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-031', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-031', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 0, 'TCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 0, 'OCALL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 0, 'ROAMING_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-032', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-033', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-033', 0, 0, 'ORDER_TYPE', 'DELETE_SUBSCRIBER', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-033', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-033', 0, 1, 'REQ_TYPE', '3', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-033', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-033', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-033', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-033', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-033', 0, 0, 'UPDATE_AUC', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-033', 0, 0, 'VMS_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-033', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'LTE_LOCK_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'OCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'ORDER_NO', '@ORDER_NO', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'GPRS_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'SMMO_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'LDI_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'TCALL_REQUEST', '1', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'FWD2BILL_REQUEST', '0', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 1, 'REQ_USER', 'OMBATCH', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 1, 'REQ_TYPE', '2', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 1, 'xmlns', 'http://www.comptel.com/ilink/api/soap/2005/09', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 1, 'NE_TYPE', 'HLR', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'IMSI1', '@IMSI', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'MSISDN1', '@MSISDN', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'BSTINST', 'POST', 1);
+
+insert into OMPRD.cfg_il_profile_det (ID_PROFILE_IL, ID_ORDER_TYPE, SIM_TYPE, REQ_ATTR, PARAM_NAME, PARAM_VALUE, XML_NUMBER)
+values ('PFL-022', 'OT-034', 0, 0, 'ORDER_TYPE', 'MODIFY_SUBSCRIBER', 1);
+

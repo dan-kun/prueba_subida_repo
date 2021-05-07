@@ -1,0 +1,1 @@
+CREATE OR REPLACE TYPE OMPROD.om_list_get_all_order AS TABLE OF OMPROD.om_obj_get_all_order;

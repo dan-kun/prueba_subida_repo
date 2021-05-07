@@ -1,0 +1,1 @@
+CREATE OR REPLACE TYPE OMPRD.om_list_batch_inf_segment_bulk AS TABLE OF OMPRD.om_obj_batch_inf_segment_bulk;
